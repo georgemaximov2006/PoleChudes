@@ -5,24 +5,31 @@
 # Управление
 Единственное, что нужно - введение цифр в главном меню и выборе категорий. А в самой игре - введение русских букв
 
-#Скриншоты
+# Скриншоты
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/b485e851-7412-4345-95f9-31452d935330)
+
 главное меню
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/a8eb4b29-4459-4842-a761-3adce75701c2)
+
 выбор категории
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/b92e77ac-d3a1-4962-801b-7a0a2f923d09)
+
 начало игры
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/c85a45ef-6917-45ed-8bb0-9fec9060bb7c)
+
 ты угадал букву правильно
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/ff180699-9a34-4976-8ab2-55b89b515c80)
+
 ты угадал букву неправильно
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/175d3885-937a-44f7-847a-b9b5127f7284)
+
 ты победил
 
 ![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/1ef82706-8133-4604-b4dc-106038b1bf53)
+
 ты проиграл
