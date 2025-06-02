@@ -6,30 +6,30 @@
 Единственное, что нужно - введение цифр в главном меню и выборе категорий. А в самой игре - введение русских букв
 
 # Скриншоты
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/b485e851-7412-4345-95f9-31452d935330)
+Главное меню
 
-главное меню
+![image](https://github.com/user-attachments/assets/f889c7c4-53f0-4c79-a56f-f6bbb51c0874)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/a8eb4b29-4459-4842-a761-3adce75701c2)
+Выбор категории
 
-выбор категории
+![image](https://github.com/user-attachments/assets/c6c11637-9461-48f6-b05d-50b0330c3067)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/b92e77ac-d3a1-4962-801b-7a0a2f923d09)
+Начало игры
 
-начало игры
+![image](https://github.com/user-attachments/assets/3e943f4b-fd9a-425a-84d7-27604130f30f)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/c85a45ef-6917-45ed-8bb0-9fec9060bb7c)
+Ты угадал букву правильно
 
-ты угадал букву правильно
+![image](https://github.com/user-attachments/assets/aa53bcf5-d000-4e28-8f4c-839bb7846f3f)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/ff180699-9a34-4976-8ab2-55b89b515c80)
+Ты угадал букву неправильно
 
-ты угадал букву неправильно
+![image](https://github.com/user-attachments/assets/00861f6d-d2d3-4269-a139-79d96a5dfaa6)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/175d3885-937a-44f7-847a-b9b5127f7284)
+Ты победил
 
-ты победил
+![image](https://github.com/user-attachments/assets/ee13bb72-6952-4e5f-b34f-48997b2da82d)
 
-![image](https://github.com/Heaby/Heaby.github.io/assets/135215290/1ef82706-8133-4604-b4dc-106038b1bf53)
+Ты проиграл
 
-ты проиграл
+![image](https://github.com/user-attachments/assets/a575dcdf-7fe0-4218-a643-e6b4c756bd33)
